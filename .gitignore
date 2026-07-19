@@ -5,6 +5,5 @@ dist
 _old_media/
 index_night.html
 config.js
-public/Albumaty.Com_Tamer_Ashour_Khalini.mp3
-public/ssstik.io_*.mp4
-public/WhatsApp Image*.jpeg
+
+.vercel
